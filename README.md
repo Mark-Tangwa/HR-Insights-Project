@@ -24,12 +24,15 @@
 
 ## Project Overview
 
-
 The goal of this analysis is to understand workforce distribution, diversity, and retention patterns across 
 departments and by distinct distributions within the organization.
 The dashboard enables HR and leadership teams to identify key demographic trends, 
 high-turnover departments, and employee tenure insights 
 that can drive strategic workforce planning, diversity improvement, and retention initiatives.
+
+<img width="1377" height="740" alt="DB 1" src="https://github.com/user-attachments/assets/fc94cb4b-3197-486e-a2e4-4681870fcca5" />
+
+<img width="1312" height="732" alt="DB 2" src="https://github.com/user-attachments/assets/3c5f8e79-03d9-4804-9744-a3bf56c179ac" />
 
 ## Data Source, Tools and Methodology
 
